@@ -6,7 +6,7 @@
 /*   By: aialonso <aialonso@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/31 11:11:00 by aialonso          #+#    #+#             */
-/*   Updated: 2025/11/06 17:53:10 by aialonso         ###   ########.fr       */
+/*   Updated: 2026/02/23 21:51:14 by aialonso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,9 +61,9 @@ int	ft_printf(const char *text, ...)
 	return (charcoun);
 }
 
-int	main(void)
+/* int	main(void)
 {
 	printf("Aitor: %d\n", ft_printf("%d|\n", 50));
 	printf("Original: %d\n", printf("%3.1d|\n", 0));
 	return (0);
-}
+} */
